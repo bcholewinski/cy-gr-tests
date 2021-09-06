@@ -1,0 +1,5 @@
+node_modules
+cypress/snapshots/actual/**
+cypress/snapshots/diff/**
+cypress/snapshots/base/**
+cypress/videos/**
